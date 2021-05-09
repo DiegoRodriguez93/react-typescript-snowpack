@@ -1,6 +1,11 @@
-# New Project
+# REACT - TYPESCRIPT - SNOWPACK - MINIMAL INITIAL TEMPLATE
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
+
+### Steps to get the same result
+- npx create-snowpack-app react-snowpack --template @snowpack/app-template-minimal
+- yard add react react-dom
+- yarn add @snowpack/plugin-typescript -D // to add TS
 
 ## Available Scripts
 
